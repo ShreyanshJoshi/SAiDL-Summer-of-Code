@@ -1,0 +1,2 @@
+# SAiDL-Summer-of-Code
+My assignment submission for the project Exploring applications of Spiking Neural Networks. SAiDl (Society for Artificial Intelligence and Deep Learning) is a non-profit professional organization which works on artificial intelligence and deep learning. This organization consists of enthusiasts who work on applications of data science in Computer Vision, Natural Language Programming, time series and artificial general intelligence. 
